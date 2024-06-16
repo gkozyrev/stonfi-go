@@ -1,4 +1,4 @@
-module github.com/croutondefi/stonfi-go
+module github.com/gkozyrev/stonfi-go
 
 go 1.19
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/croutondefi/stonfi-go"
+	"github.com/gkozyrev/stonfi-go"
 	"github.com/stretchr/testify/assert"
 	"github.com/xssnick/tonutils-go/address"
 	"github.com/xssnick/tonutils-go/liteclient"
